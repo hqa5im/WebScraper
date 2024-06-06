@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzK/R+fkHso=",
+  "success": true,
+  "projectFilePath": "/Users/hannaqasim/Desktop/WebScraper/WebScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/hannaqasim/.nuget/packages/htmlagilitypack/1.11.61/htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
